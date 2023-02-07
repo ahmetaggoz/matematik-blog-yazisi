@@ -11,3 +11,4 @@ o zamanlar yirmili yaşlarında genç bir matematikçiydi fakat kimsenin icadın
 
 Buldukları şey değişimle ilgiliydi. Türev bir noktadaki değişimdi. İntegral ise değişimler toplamını ifade ediyordu. Bu buluş her şeyi değiştirdi.
 Dünya sürekli değişen bir yerdi ve bu değişim artık matematikle ifade edilebiliyordu. 
+[Patika](https://www.patika.dev/tr)
